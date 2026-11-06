@@ -1,6 +1,6 @@
 # Pokémon data capstone -  Atlas
 Ángel Francisco Hernández Valdez - A00839859
-
+Jorge Lopez Martinez - A01385731
 
 FECHA: 06 de Noviembre de 2026
 
