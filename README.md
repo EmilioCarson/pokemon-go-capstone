@@ -1,4 +1,8 @@
-# Pokémon data capstone
+# Pokémon data capstone -  Atlas
+Ángel Francisco Hernández Valdez - A00839859
+
+
+FECHA: 06 de Noviembre de 2026
 
 Repositorio inicial para una exploración reproducible de datos públicos de Pokémon.
 
